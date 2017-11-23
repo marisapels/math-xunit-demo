@@ -1,0 +1,13 @@
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netstandard2.0/xunit.runner.visualstudio.testadapter.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netstandard2.0/xunit.runner.utility.net35.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netstandard2.0/xunit.abstractions.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netstandard2.0/myTests.deps.json
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netstandard2.0/myTests.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netstandard2.0/myTests.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netstandard2.0/myLib.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netstandard2.0/myLib.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netstandard2.0/myTests.csproj.CoreCompileInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netstandard2.0/myTests.AssemblyInfoInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netstandard2.0/myTests.AssemblyInfo.cs
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netstandard2.0/myTests.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netstandard2.0/myTests.pdb

@@ -1,0 +1,8 @@
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myLib/bin/Debug/netcoreapp2.0/myLib.deps.json
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myLib/bin/Debug/netcoreapp2.0/myLib.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myLib/bin/Debug/netcoreapp2.0/myLib.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myLib/obj/Debug/netcoreapp2.0/myLib.csproj.CoreCompileInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myLib/obj/Debug/netcoreapp2.0/myLib.AssemblyInfoInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myLib/obj/Debug/netcoreapp2.0/myLib.AssemblyInfo.cs
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myLib/obj/Debug/netcoreapp2.0/myLib.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myLib/obj/Debug/netcoreapp2.0/myLib.pdb

@@ -1,0 +1,15 @@
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/myTests.deps.json
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/myTests.runtimeconfig.json
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/myTests.runtimeconfig.dev.json
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/myTests.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/myTests.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/myLib.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/bin/Debug/netcoreapp1.1/myLib.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netcoreapp1.1/myTests.csproj.CoreCompileInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netcoreapp1.1/myTests.AssemblyInfoInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netcoreapp1.1/myTests.AssemblyInfo.cs
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netcoreapp1.1/myTests.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/WritingProCode/math-master/myTests/obj/Debug/netcoreapp1.1/myTests.pdb
